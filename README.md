@@ -114,11 +114,8 @@ Couverture photographique des tournois Navétanes dans la région de Kolda.
 
 - HTML
 - CSS
-- JavaScript
 - WordPress
-- Git
-- GitHub
-
+-
 ---
 
 # 🛠️ Outils
