@@ -1,214 +1,276 @@
-# Insa.porfolio
-Porfolio de insa
-Voici un README GitHub qui reflète ce que je sais de toi : étudiant en informatique/communication, passionné par le développement web, le design, l'IA, l'audiovisuel, la photographie, le marketing digital et les projets innovants au Sénégal.
+Avec ces nouvelles informations, ton profil devient beaucoup plus riche. Tu n'es pas seulement étudiant : tu as déjà une **expérience professionnelle en communication visuelle, community management, photographie et design graphique**. Ton README doit raconter ton parcours et mettre en valeur ton identité de créatif.
 
-Tu pourras remplacer les liens GitHub par les tiens.
+Voici un README digne d'un portfolio professionnel.
 
-```md
-# 👋 Salut, moi c'est Insa Mané
+```markdown
+# 👋 Salut, je suis Insa Mané
 
-## 🚀 Développeur Web • UI/UX Designer • Créateur de contenus • Entrepreneur Digital
+<div align="center">
 
-> "Transformer les idées en solutions numériques utiles."
+### 🎨 Graphic Designer • 📸 Photographer • 🎬 Content Creator • 🌍 Visual Storyteller
 
-Je suis étudiant en **Licence 2 à l'Université Amadou Mahtar Mbow (UAM)** au Sénégal. Passionné par les nouvelles technologies, je développe des applications web, conçois des interfaces modernes et crée du contenu audiovisuel à travers **Abdoul 2A Visuals**.
+*"Créer des visuels qui racontent une histoire, inspirent et créent de l'impact."*
 
-J'aime résoudre des problèmes grâce au développement, au design et à l'intelligence artificielle.
+</div>
 
 ---
 
-## 🌍 À propos de moi
+## 👨🏽‍💻 À propos de moi
 
-- 💻 Développement Web Full Stack
-- 🎨 UI/UX Design (Figma)
-- 📱 Applications Web modernes
-- 🤖 Intelligence Artificielle & Automatisation
-- 📸 Photographie & Vidéographie
-- 🎬 Création de contenus
-- 📢 Marketing Digital
-- 🇸🇳 Promotion touristique du Sénégal
+Je suis **Insa Mané**, étudiant en **Licence 2 en Sciences de l'Information et de la Communication**, parcours **Infographie et Design Numérique**.
 
----
+Passionné par la **création visuelle**, je développe des expériences graphiques où le design, la photographie et la vidéo deviennent de véritables outils de communication.
 
-## 🛠️ Technologies
+Mon travail s'appuie sur :
 
-### Front-end
+- 🎨 le design graphique
+- 📸 la photographie professionnelle
+- 🎥 la production audiovisuelle
+- 📱 la création de contenus digitaux
+- 🌍 le storytelling visuel
+- 📢 le community management
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Mon objectif est de devenir **Directeur Artistique**, **Designer Digital** et **Réalisateur Audiovisuel**, en participant à des projets créatifs qui ont un impact réel.
 
 ---
 
-### Back-end
+# 💼 Expériences
 
-- PHP
-- Laravel
-- Node.js
-- Express.js
+## 🎮 DAK'AR
+**Graphic Designer & Community Manager**
+
+Entreprise spécialisée dans les expériences immersives (VR, AR, Métavers).
+
+### Missions
+
+- Création d'identités visuelles
+- Design des publications réseaux sociaux
+- Création d'affiches publicitaires
+- Community Management
+- Création de contenus marketing
+- Communication digitale
 
 ---
 
-### Bases de données
+## 🏀 EDU'BASKET ACADÉMIE
 
-- MySQL
-- PostgreSQL
-- MongoDB
+**Graphic Designer & Community Manager**
+
+Académie de basketball spécialisée dans la formation des jeunes talents.
+
+### Missions
+
+- Création d'affiches sportives
+- Gestion des réseaux sociaux
+- Branding
+- Couverture des événements
+- Communication digitale
 
 ---
 
-### Outils
+## 📸 Navétanes de Kolda
 
+**Photographe Professionnel**
+
+Couverture photographique des tournois Navétanes dans la région de Kolda.
+
+### Activités
+
+- Reportage photo
+- Photographie sportive
+- Portraits
+- Retouche photo
+- Livraison de contenus numériques
+
+---
+
+# 🚀 Compétences
+
+### 🎨 Design
+
+- Branding
+- Identité visuelle
+- Affiches publicitaires
+- Flyers
+- Bannières
+- Motion Design
+
+### 📸 Photographie
+
+- Sport
+- Événementiel
+- Portrait
+- Tourisme
+- Entreprise
+
+### 🎬 Audiovisuel
+
+- Montage vidéo
+- Storytelling
+- Réalisation
+- Création de contenus
+
+### 🌐 Web
+
+- HTML
+- CSS
+- JavaScript
+- WordPress
 - Git
 - GitHub
-- VS Code
+
+---
+
+# 🛠️ Outils
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Lightroom
+- Adobe Premiere Pro
+- Adobe After Effects
 - Figma
 - Canva
-- Illustrator
-- Photoshop
-- Premiere Pro
-- After Effects
+- VS Code
 
 ---
 
-## 🚀 Mes projets
+# 🚀 Mes projets
 
-### 📌 SamaPharma
+## 🌐 Portfolio Personnel
 
-Une plateforme permettant de localiser les pharmacies, consulter les médicaments disponibles et réserver rapidement.
+Un portfolio moderne présentant mes réalisations en design graphique, photographie et audiovisuel.
 
-🔗 https://github.com/ton-profil/samapharma
-
----
-
-### 📌 UVS Connect
-
-Application destinée aux étudiants permettant de simplifier l'accès aux ressources universitaires.
-
-🔗 https://github.com/ton-profil/uvs-connect
+🔗 https://github.com/ton-username/portfolio
 
 ---
 
-### 📌 Abdoul 2A Visuals
+## 📸 Abdoul 2A Visuals
 
-Site vitrine d'une agence spécialisée dans :
+Agence de création de contenus spécialisée dans :
 
 - Photographie
-- Vidéographie
-- Communication digitale
+- Vidéo
+- Drone
 - Promotion touristique
+- Communication digitale
 
-🔗 https://github.com/ton-profil/abdoul2avisuals
+### Objectif
 
----
+Valoriser les entreprises, hôtels, restaurants, marques et destinations touristiques du Sénégal grâce à des contenus visuels de qualité.
 
-### 📌 Portfolio Personnel
-
-Portfolio moderne présentant mes compétences, mes réalisations et mes expériences.
-
-🔗 https://github.com/ton-profil/portfolio
+🔗 https://github.com/ton-username/abdoul2a-visuals
 
 ---
 
-### 📌 CMS Detector
+## 🥇 EDU'BASKET Branding
 
-Application permettant de détecter automatiquement le CMS utilisé par un site (WordPress, Joomla, Drupal...)
+Collection d'affiches, visuels et campagnes de communication réalisées pour EDU'BASKET ACADÉMIE.
 
-🔗 https://github.com/ton-profil/cms-detector
-
----
-
-### 📌 Agent IA
-
-Assistant intelligent capable d'automatiser différentes tâches liées au développement et au marketing.
-
-🔗 https://github.com/ton-profil/ai-agent
+🔗 https://github.com/ton-username/edubasket-branding
 
 ---
 
-## 📚 Ce que j'apprends actuellement
+## 🌍 DAK'AR Social Media
 
-- Laravel
+Collection de contenus créatifs réalisés pour les réseaux sociaux de DAK'AR.
+
+- Affiches
+- Carrousels
+- Branding
+- Storytelling
+
+🔗 https://github.com/ton-username/dakar-social-media
+
+---
+
+## 📷 Kolda Navétanes Photography
+
+Portfolio photographique regroupant les meilleurs clichés réalisés lors des Navétanes de Kolda.
+
+🔗 https://github.com/ton-username/navetanes-kolda
+
+---
+
+## 💊 SamaPharma
+
+Concept d'application facilitant la recherche des pharmacies au Sénégal.
+
+Fonctionnalités :
+
+- Géolocalisation
+- Disponibilité des médicaments
+- Réservation
+- Notifications
+
+🔗 https://github.com/ton-username/samapharma
+
+---
+
+## 🌴 Sénégal Tourisme
+
+Projet de promotion touristique mettant en valeur les paysages, hôtels, restaurants et activités du Sénégal.
+
+🔗 https://github.com/ton-username/senegal-tourisme
+
+---
+
+# 🌱 J'apprends actuellement
+
+- UI/UX Design
+- Motion Design
 - React
-- Next.js
-- API REST
-- Docker
+- Laravel
 - Intelligence Artificielle
-- DevOps
-- Clean Architecture
+- Direction Artistique
+- Design Systems
 
 ---
 
-## 📊 Statistiques GitHub
+# 🎯 Ce qui me passionne
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🌟 Mes centres d'intérêt
-
-- Intelligence Artificielle
-- Développement Web
-- Startups
-- Open Source
-- Design
-- Entrepreneuriat
-- Sport
-- Basketball
+- Communication Visuelle
+- Design Graphique
+- Photographie
 - Audiovisuel
+- Storytelling
+- Branding
+- Marketing Digital
 - Tourisme
+- Sport
+- Innovation
 
 ---
 
-## 🤝 Collaborons !
+# 📫 Me contacter
 
-Je suis toujours ouvert à :
-
-- Projets Open Source
-- Développement Web
-- Applications IA
-- Design UI/UX
-- Photographie & Vidéo
-- Solutions numériques pour l'Afrique
-
----
-
-## 📫 Me contacter
-
-📧 Email : tonemail@example.com
-
-🌐 Portfolio : https://tonportfolio.com
+📧 Email : tonemail@email.com
 
 💼 LinkedIn : https://linkedin.com/in/tonprofil
 
 📸 Instagram : https://instagram.com/abdoul2avisuals
 
+🌐 Portfolio : https://tonportfolio.com
+
 ---
 
-> **Code. Design. Create. Inspire.**
+> **"Le design est bien plus qu'une esthétique : c'est une manière de communiquer, d'émouvoir et de créer de l'impact."**
+
+⭐ Merci de visiter mon profil GitHub !
 ```
 
-### Je te recommande aussi d'ajouter ces projets à ton GitHub pour qu'il soit très professionnel :
+### Pour rendre ton GitHub vraiment remarquable, je te conseille d'y ajouter ces dépôts :
 
-| Projet                   | Description                                                         |
-| ------------------------ | ------------------------------------------------------------------- |
-| 🌍 Sénégal Tour Guide    | Plateforme de promotion touristique avec cartes et recommandations. |
-| 🏨 Hotel Booking Sénégal | Réservation d'hôtels avec paiement en ligne.                        |
-| 🍽 Restaurant Finder     | Recherche des meilleurs restaurants du Sénégal.                     |
-| 📷 Abdoul 2A Visuals     | Site officiel de ton agence audiovisuelle.                          |
-| 💊 SamaPharma            | Géolocalisation des pharmacies.                                     |
-| 🎓 UAM Student Portal    | Gestion des cours, emplois du temps et notes.                       |
-| 🤖 AI CMS Detector       | Détection automatique des CMS d'un site web.                        |
-| 📰 News Sénégal          | Site d'actualités utilisant une API.                                |
-| 🛒 E-commerce Laravel    | Boutique en ligne complète.                                         |
-| 💼 Portfolio v2          | Portfolio moderne avec animations et blog.                          |
+| 📂 Projet                   | 📝 Résumé                                                          |
+| --------------------------- | ------------------------------------------------------------------ |
+| **portfolio**               | Ton portfolio personnel avec études de cas.                        |
+| **abdoul2a-visuals**        | Site de ton agence avec galerie photo, vidéos et services.         |
+| **dakar-social-media**      | Tes créations graphiques et campagnes réalisées pour DAK'AR.       |
+| **edubasket-branding**      | Affiches sportives, branding et contenus pour EDU'BASKET ACADÉMIE. |
+| **navetanes-kolda**         | Portfolio de photographie sportive des Navétanes de Kolda.         |
+| **graphic-design-showcase** | Collection de logos, affiches, flyers et identités visuelles.      |
+| **photography-showcase**    | Galerie de tes meilleures photographies avec descriptions.         |
+| **motion-design**           | Animations et vidéos réalisées avec After Effects et Premiere Pro. |
+| **senegal-tourisme**        | Projet de valorisation touristique du Sénégal.                     |
+| **samapharma**              | Prototype UX/UI et application de recherche de pharmacies.         |
 
-Avec une dizaine de projets bien documentés, un portfolio moderne et des contributions régulières, ton profil GitHub donnera une image très professionnelle, idéale pour des stages, de l'alternance ou des opportunités de freelance.
+Avec ce type de README et ces projets, ton profil GitHub sera orienté **créatif, designer et communicant**, tout en montrant que tu maîtrises les outils numériques et que tu possèdes déjà une expérience concrète sur le terrain.
